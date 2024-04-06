@@ -5,7 +5,7 @@
 <img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/d047c76d-74d8-4664-9723-d1ef1e2a49ce">
 
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/7c4acc66-e59f-401a-9e5c-bbaeec8514d1">
+<img width="633" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/7c4acc66-e59f-401a-9e5c-bbaeec8514d1">
 
 
 

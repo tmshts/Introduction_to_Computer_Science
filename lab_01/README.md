@@ -23,6 +23,6 @@
 <img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/4e9b4e52-4f04-4059-8c0b-5cd66af1290d">
 
 
-## Prime Palindroe-green
+## Prime Palindrome-green
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/485ac2c3-6907-4f2a-86a2-3611f23d5d70">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/a3ea609e-93bb-47e9-b891-6067a1418ed2">

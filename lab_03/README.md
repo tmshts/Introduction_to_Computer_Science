@@ -1,35 +1,52 @@
 # The assignments are:
 
-## Factorial
+## String Acceptance
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/4aa1f345-83d1-4df7-8634-1d869ad8f32d">
-
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/578ce364-2c05-424d-8dc5-9694cb017052">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/7bb86844-39f8-4591-be07-b9be124716e7">
 
 
-## Various Array Tasks
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/c415a965-1b27-4fda-9118-5097bf956cdf">
+## Which Expression
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/116f1746-9d02-4694-a09e-c368a2a86765">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/06f0ee0b-3110-4994-a819-c56e0d7a1845">
 
-
-## Linear Search 1
-
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/e3529c23-9ccd-4551-bef0-6230acd4c44a">
-
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/b2cfde27-1163-4dac-a61d-dba65e467d1e">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/749461f5-875e-4678-b509-e644f3daf490">
 
 
-## Linear Search 2
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/b63f8ea1-770e-410b-acb7-7098c64f0fbf">
+## Valid Age
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/80cba2a8-cc5b-44b3-9f16-78740c91bb43">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/8c45bc17-6a74-4790-b2da-3c8f87ce0a93">
 
 
-## Method Overloading
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/45a5fd11-83a9-45b5-895f-973835594a7c">
+## Valid Name
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/f45400d4-9191-4793-8d32-ad680a504b64">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/6db66504-38da-40cb-8286-ff88a9e29c66">
+
+
+
+## Flight codes
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/cc47a959-ccf7-43ef-9c78-3f4c955f4370">
+
+
+
+## Genomes
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/a7b0fc9d-1c82-46a6-9657-292a57c44679">
+
+
+
+## Alarm
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/408233d5-5462-4174-9ede-3187c0be2713">
+
+
+
+## Password
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/512501d3-6a2a-4045-b5dd-cb8a18802893">
+
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/7bd34611-9ca6-4f2d-9ad1-d107d787403e">

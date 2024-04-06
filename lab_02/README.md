@@ -4,7 +4,7 @@
 
 <img width="633" alt="Factorial" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/4aa1f345-83d1-4df7-8634-1d869ad8f32d">
 
-<img width="500" alt="Factorial" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/578ce364-2c05-424d-8dc5-9694cb017052">
+<img width="433" alt="Factorial" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/578ce364-2c05-424d-8dc5-9694cb017052">
 
 
 

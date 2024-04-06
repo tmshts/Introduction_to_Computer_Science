@@ -1,38 +1,53 @@
 # The assignments are:
 
-## Find Substrings
+## Combine Reverse
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/751c8253-fbfb-44e1-b1ff-9a5fd8e8a790">
-
-
-
-## Exponent
-
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/b2c8893a-5131-4639-80ee-3118a2ae7f54">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/927d4664-907a-4770-828c-cb6ecdd80012">
 
 
 
-## Method Overloading
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/fcc7cb3f-b856-42bb-a3da-bf792e1e45e2">
+## Numbers With Commas
 
-
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/0114acc4-d8cb-4339-87ef-9874079d820d">
-
-
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/23dc6a77-4330-406e-bd82-d2610a4d25df">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/f4d8ad38-e211-4d6e-b215-a4eb59b11016">
 
 
 
-## Reciprocals
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/d082c6c9-afb4-4efd-8f90-4a34536aabba">
+## Mexican Wave
 
-
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/4827f92c-9d70-4356-a4bd-2a6d12d8c87c">
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/ccc5c167-16a2-4e73-9221-7e3c7e520a19">
 
 
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/88f1ab99-dbea-424e-8731-520cf4d8c12d">
 
-## Remove Odds
 
-<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/dc8ff1d8-26ef-4361-a8b8-953ce8f76319">
+
+
+## Five or More
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/61609f01-cfa9-4506-9680-6493ece36253">
+
+
+
+
+## Poker
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/9df8e1a9-d127-4e47-9bbd-0902232ba47e">
+
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/899c66b1-232e-4935-8b06-ead63a5dce76">
+
+
+
+
+## Ascii Difference
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/3b670155-b401-45c6-81b9-f85514b53f89">
+
+
+
+
+## Add As
+
+<img width="1433" alt="desktop view" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/fea5c213-ceff-4ef2-99f6-55cd3defa357">

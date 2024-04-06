@@ -27,7 +27,7 @@
 
 ## Clean String
 
-<img width="1433" alt="Clean String" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/56c97440-345c-434a-96bd-10a61c4a4071">
+<img width="1733" alt="Clean String" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/56c97440-345c-434a-96bd-10a61c4a4071">
 
 
 

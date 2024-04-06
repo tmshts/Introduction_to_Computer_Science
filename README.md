@@ -1,4 +1,4 @@
-# Introduction_to_Computer_Science
+# CS162 Introduction to Computer Science 2
 
 This repo is dedicated to a module CS162 Introduction to Computer Science 2 which I took during my Exchange semester 2024 at the Maynooth University in Ireland.
 

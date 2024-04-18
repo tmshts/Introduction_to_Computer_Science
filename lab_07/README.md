@@ -2,52 +2,43 @@
 
 ## Alphabetical
 
-<img width="633" alt="Combine Reverse" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/927d4664-907a-4770-828c-cb6ecdd80012">
-
+<img width="633" alt="Alphabetical" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/c3958577-62f2-428d-bb3f-a1367fda871d">
 
 
 
 ## Anagram
 
-<img width="633" alt="Numbers With Commas" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/f4d8ad38-e211-4d6e-b215-a4eb59b11016">
-
+<img width="633" alt="Anagram" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/cbe4b33e-7e62-4707-aae6-f594a60be0c5">
 
 
 
 ## Missing Element
 
-<img width="633" alt="Mexican Wave" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/ccc5c167-16a2-4e73-9221-7e3c7e520a19">
-
-
-<img width="633" alt="Mexican Wave" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/88f1ab99-dbea-424e-8731-520cf4d8c12d">
-
+<img width="633" alt="Missing Element" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/06ea0316-b8f9-4b59-b4c4-d346e84ab2d6">
 
 
 
 ## Binary Search Game
 
-<img width="633" alt="Five or More" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/61609f01-cfa9-4506-9680-6493ece36253">
-
+<img width="633" alt="Binary Search Game" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/6c78e9ce-8b14-4483-9c7c-ec7b5be2b873">
 
 
 
 ## WordBuilder
 
-<img width="633" alt="Poker" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/9df8e1a9-d127-4e47-9bbd-0902232ba47e">
-
-
-<img width="633" alt="Poker" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/899c66b1-232e-4935-8b06-ead63a5dce76">
-
+<img width="633" alt="WordBuilder" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/daaff80d-ff8b-433b-a6f2-b92b4f77ca32">
 
 
 
 ## Bubble Sort Integers
 
-<img width="633" alt="Ascii Difference" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/3b670155-b401-45c6-81b9-f85514b53f89">
-
+<img width="633" alt="Bubble Sort Integers" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/223e73cc-6501-42d2-b00d-a88c74cbd9ce">
 
 
 
 ## Unique Sorting
 
-<img width="633" alt="Add As" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/fea5c213-ceff-4ef2-99f6-55cd3defa357">
+<img width="633" alt="Unique Sorting" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/7b705407-ce0e-4485-a4e8-2586c5214326">
+
+
+<img width="633" alt="Unique Sorting" src="https://github.com/tmshts/Introduction_to_Computer_Science/assets/74012536/f35cfab9-379b-46a1-9791-266728330e4b">

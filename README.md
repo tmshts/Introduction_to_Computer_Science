@@ -11,6 +11,7 @@ The overview of this module can be summarized as followed:
 - lab 04 - [Recursion](https://github.com/tmshts/Introduction_to_Computer_Science/tree/main/lab_04)
 - lab 05 - [Recursion 2](https://github.com/tmshts/Introduction_to_Computer_Science/tree/main/lab_05)
 - lab 06 - [Recursion 3](https://github.com/tmshts/Introduction_to_Computer_Science/tree/main/lab_06)
+- lab 07 - [Binary Search & Bubble Sort](https://github.com/tmshts/Introduction_to_Computer_Science/tree/main/lab_07)
 
 
 More information related to the module can be found [here](https://www.maynoothuniversity.ie/node/545163).
